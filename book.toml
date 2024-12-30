@@ -1,0 +1,6 @@
+[book]
+authors = ["Furkan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FHE Book"
