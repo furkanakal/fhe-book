@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [The FHE Book](./the-fhe-book.md)
+- [Preface](./preface.md)
